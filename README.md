@@ -34,3 +34,8 @@ The vision of Portfolio Mirroring is to enable transparent and decentralized por
 - User authentication and access control  
 
 ---
+
+## contract details:
+contract id:CDYAXLI73YNJGZD2B7VQP6D6SU3M5S4UAPEX32V6GM6JTEMFAJHYVS2U
+<img width="3840" height="1824" alt="image" src="https://github.com/user-attachments/assets/38f466ce-6bf6-4ce1-99c7-8ba7b0261757" />
+
