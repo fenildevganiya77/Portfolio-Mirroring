@@ -6,7 +6,7 @@
 
 Portfolio Mirroring is a decentralized smart contract that allows users to create and manage a simplified representation of their investment portfolio on-chain. Users can store asset details, update them, and retrieve their portfolio data securely using the Soroban smart contract platform.
 
----
+
 
 ## Project Vision
 
